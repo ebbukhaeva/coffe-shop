@@ -1,4 +1,4 @@
-const sweaters = [
+const coffees = [
     {
       image: "001.JPG",
       description: "Латте на кокосовом молоке",
@@ -20,7 +20,7 @@ const sweaters = [
       price: 280
     },
     {
-      image: "005.JPG",
+      img src="img/02.jpg ",
       description: "Айс-латте",
       price: 350
     },
