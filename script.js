@@ -20,7 +20,7 @@ const coffees = [
       price: 280
     },
     {
-      img src="img/02.jpg ",
+      image: "005.JPG ",
       description: "Айс-латте",
       price: 350
     },
