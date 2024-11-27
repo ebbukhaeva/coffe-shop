@@ -47,7 +47,7 @@ const sweaters = [
       
   ];
   
-  // Функция для создания блока с информацией о свитере
+  // Функция для создания блока с информацией о кофе
   function createProductBlock(sweater) {
     const block = document.createElement("div");
     block.classList.add("product-block");
