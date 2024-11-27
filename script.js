@@ -1,48 +1,48 @@
 const sweaters = [
     {
       image: "001.JPG",
-      description: "Теплый свитер из шерсти",
-      price: 2500
+      description: "Латте на кокосовом молоке",
+      price: 450
     },
     {
       image: "002.JPG",
-      description: "Стильный свитер с узором",
-      price: 3000
+      description: "Латте на банановом молоке",
+      price: 300
     },
     {
       image: "003.JPG",
-      description: "Мягкий свитер из кашемира",
-      price: 4000
+      description: "Капучино с соленой карамелью",
+      price: 400
     },
     {
       image: "004.JPG",
-      description: "Классический свитер с воротником",
-      price: 2800
+      description: "Классический американо",
+      price: 280
     },
     {
       image: "005.JPG",
-      description: "Уютный свитер с капюшоном",
-      price: 3500
+      description: "Айс-латте",
+      price: 350
     },
     {
       image: "006.JPG",
-      description: "Тонкий свитер из хлопка",
-      price: 2200
+      description: "Смузи тропический",
+      price: 450
     },
     {
         image: "007.JPG",
-        description: "Тонкий свитер из хлопка",
-        price: 2200
+        description: "Смузи клубничный",
+        price: 400
       },
       {
         image: "008.JPG",
-        description: "Тонкий свитер из хлопка",
-        price: 2200
+        description: "Эспрессо",
+        price: 220
       },
       {
         image: "009.JPG",
-        description: "Тонкий свитер из хлопка",
-        price: 2200
+        description: "Раф лавандовый",
+        price: 350
       }
       
   ];
