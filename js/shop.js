@@ -38,7 +38,7 @@
       "vendor_code": "4445e",
       "description": "Описание 6",
       "price": 400,
-      "img": "/images/005.JPG"
+      "img": "/img/02.jpg"
     },
     {
       "id": "6",
