@@ -2,47 +2,47 @@ const sweaters = [
     {
       image: "001.JPG",
       description: "Раф на лавандовом",
-      price: 2500
+      price: 300
     },
     {
       image: "002.JPG",
       description: "Раф на коксовом",
-      price: 3000
+      price: 300
     },
     {
       image: "003.JPG",
       description: "Эспрессо",
-      price: 4000
+      price: 350
     },
     {
       image: "004.JPG",
       description: "Американо",
-      price: 2800
+      price: 350
     },
     {
       image: "005.JPG",
       description: "Айс латте",
-      price: 3500
+      price: 400
     },
     {
       image: "006.JPG",
       description: "Смузи клубничный",
-      price: 2200
+      price: 400
     },
     {
         image: "007.JPG",
         description: "Смузи цитрусовый",
-        price: 2200
+        price: 400
       },
       {
         image: "008.JPG",
         description: "Латте с соленой карамелью",
-        price: 2200
+        price: 350
       },
       {
         image: "009.JPG",
         description: "Латте со вкусом клубники",
-        price: 2200
+        price: 350
       }
       
   ];
