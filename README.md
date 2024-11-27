@@ -1,2 +1,1 @@
-[
-](https://ebbukhaeva.github.io/coffe-shop/)
+https://ebbukhaeva.github.io/coffe-shop/
